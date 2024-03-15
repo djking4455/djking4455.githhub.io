@@ -1,0 +1,1 @@
+chrome-extension://dbaeahjfpemphebenmoklignajdgimna/content/extended-css.js
